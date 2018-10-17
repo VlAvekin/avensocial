@@ -1,6 +1,14 @@
 <h1>AVENSOCIAL</h1>
 
 <h3>This is my social networks.</h3>
+
+<h4>vue js</h4>
+https://ru.vuejs.org/v2/guide/index.html
+
+Vue resource:
+https://github.com/pagekit/vue-resource
+<script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+
  
 HTTP methods:
 
